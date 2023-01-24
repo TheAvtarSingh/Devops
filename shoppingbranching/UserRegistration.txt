@@ -1,2 +1,6 @@
 Username : Avtar20csu241@ncuindia.edu
 Password : Avtar@123
+
+Adding Data in User Registartion Branch
+UserName : SunilKharsu20csu371@gmail.com
+Password : nOnAME
