@@ -1,3 +1,9 @@
 2. Apple Iphone
 256GB
 5"
+
+Adding data in Product Two Branch
+3.Dell Laptop
+Vostro 1540
+216GB
+Modified
