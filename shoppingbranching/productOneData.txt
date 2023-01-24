@@ -1,3 +1,9 @@
 1.Apple Mac Book Air
 512 GB
 13''
+
+Adding Data in Branch - ProductOne
+
+2. Asus Rog
+576GB
+13.5" 

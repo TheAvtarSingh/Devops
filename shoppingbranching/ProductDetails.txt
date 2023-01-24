@@ -1,3 +1,6 @@
 Total Products :  2
 Apple Products : 2
 Windows Product : 0
+
+Changing Windows Product From 0 to 1 in Product One Branch
+Windows Product : 1
