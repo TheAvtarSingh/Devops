@@ -2,5 +2,10 @@ Total Products :  2
 Apple Products : 2
 Windows Product : 0
 
+<<<<<<< HEAD
 Changing Windows Product From 0 to 1 in Product One Branch
 Windows Product : 1
+=======
+Adding Data in ProductTwo Branch in ProductTwo.txt file
+Dell Product : 1
+>>>>>>> ProductTwo
